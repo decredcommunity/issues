@@ -1,0 +1,57 @@
+- name: active
+  description: Someone has worked on it recently
+  color: 9fed84
+- name: archiving
+  description: Archiving and data preservation
+  color: c5c5c5
+- name: article
+  description: Ideas for articles to be written
+  color: 9ec6ff
+- name: comms
+  description: Anything related to communication infrastructure
+  color: f5f9a4
+- name: corrections
+  description: Errors found on the web. Before contacting authors please talk to Ditto people first.
+  color: ffcfd6
+- name: dev
+  description: Programming or development might be needed
+  color: aaccff
+- name: duplicate
+  description: This issue or pull request already exists
+  color: cfd3d7
+- name: engagement
+  description: Anything that directly contributes to onboarding and engaging new and existing users
+  color: dfffdf
+- name: hardware
+  description: hardware
+  color: e8b466
+- name: on hold
+  description: Do not engage for now
+  color: e58797
+- name: org
+  description: Organizing people and information
+  color: ffffcf
+- name: PR
+  description: Public relations, messaging, outreach
+  color: beb8f9
+- name: question
+  description: Further information is requested
+  color: d876e3
+- name: recruiting
+  description: Attracting builders to the project
+  color: aefcc5
+- name: research
+  description: research
+  color: efefff
+- name: security
+  description: Anything that contributes to security of the network or users.
+  color: 197687
+- name: TODO
+  description: Fill this issue with more info
+  color: d642d3
+- name: wallets
+  description: wallets
+  color: 5cbdd1
+- name: wontfix
+  description: This will not be worked on
+  color: ffffff
